@@ -18,7 +18,6 @@ Minicurso teórico-prático no **Google Colab**: pipeline verificável de DRX + 
 
 | O quê | Clique aqui |
 |---|---|
-| **Slides (apresentação completa)** | [Abrir no navegador](https://raw.githack.com/anuarmincache/semana-da-fisica-2026/main/slides/apresentacao.html) |
 | **Slides por módulo** | [Índice](https://raw.githack.com/anuarmincache/semana-da-fisica-2026/main/slides/index.html) |
 | **Notebook da aula** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anuarmincache/semana-da-fisica-2026/blob/main/notebooks/Minicurso_IA_Cientifica_DRX.ipynb) |
 | Manual | [docs/MANUAL.md](docs/MANUAL.md) |
